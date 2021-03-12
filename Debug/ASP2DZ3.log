@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\DELL\Documents\Projects\ASP\ASP2DZ3\Trie\Src\main.cpp(115,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Documents\Projects\ASP\ASP2DZ3\Trie\Src\main.cpp(119,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Documents\Projects\ASP\ASP2DZ3\Trie\Src\main.cpp(123,49): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Documents\Projects\ASP\ASP2DZ3\Trie\Src\main.cpp(141,10): warning C4101: 'c': unreferenced local variable
+C:\Users\DELL\Documents\Projects\ASP\ASP2DZ3\Trie\Src\main.cpp(230,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ASP2DZ3.vcxproj -> C:\Users\DELL\Documents\Projects\ASP\Debug\ASP2DZ3.exe

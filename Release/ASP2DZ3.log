@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\DELL\Documents\Projects\ASP\ASP2DZ3\Trie\Src\main.cpp(127,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Documents\Projects\ASP\ASP2DZ3\Trie\Src\main.cpp(131,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Documents\Projects\ASP\ASP2DZ3\Trie\Src\main.cpp(135,49): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Documents\Projects\ASP\ASP2DZ3\Trie\Src\main.cpp(154,10): warning C4101: 'c': unreferenced local variable
+C:\Users\DELL\Documents\Projects\ASP\ASP2DZ3\Trie\Src\main.cpp(232,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\DELL\Documents\Projects\ASP\ASP2DZ3\Trie\Src\main.cpp(303,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Documents\Projects\ASP\ASP2DZ3\Trie\Src\main.cpp(311,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Documents\Projects\ASP\ASP2DZ3\Trie\Src\main.cpp(320,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Documents\Projects\ASP\ASP2DZ3\Trie\Src\main.cpp(328,31): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 825 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ASP2DZ3.vcxproj -> C:\Users\DELL\Documents\Projects\ASP\Release\ASP2DZ3.exe
